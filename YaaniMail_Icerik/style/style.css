@@ -23,6 +23,7 @@ body {
 }
 .logo > img {
   width: 23rem;
+  height: 60px;
 }
 .navbar {
   display: flex;
